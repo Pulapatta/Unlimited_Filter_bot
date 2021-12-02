@@ -87,6 +87,9 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
 
+# Deploy to Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FPulapatta%2FUnlimited_Filter_bot&envs=API_HASH%2CAPI_ID%2CAUTH_USERS%2CDATABASE_NAME%2CDATABASE_URI%2CHEROKU_API_KEY%2CSAVE_USER%2CTG_BOT_TOKEN%2CWEBHOOK&API_HASHDesc=Your+API+Hash+from+my.telegram.org+&API_IDDesc=Your+API+Hash+from+my.telegram.org+&AUTH_USERSDesc=ID+of+users+that+can+use+the+bot+commands&DATABASE_NAMEDesc=Your+database+name+from+mongoDB.+%28+Default+will+%27Cluster0%27+%29&DATABASE_URIDesc=Database+URL+from+https%3A%2F%2Fcloud.mongodb.com%2F&HEROKU_API_KEYDesc=To+check+dyno+status.+Go+to+https%3A%2F%2Fdashboard.heroku.com%2Faccount%2C+scroll+down+and+press+Reveal+API&SAVE_USERDesc=Do+you+need+to+save+user+details%3F+Usefull+for+getting+userinfo+and+total+user+counts.+May+reduce+filter+capacity.+Give+yes+or+no&TG_BOT_TOKENDesc=Your+Telegram+Bot+Token+from+%40BotFather&WEBHOOKDesc=No+need+to+change+this+field%21&DATABASE_NAMEDefault=Cluster0&SAVE_USERDefault=no&WEBHOOKDefault=ANYTHING&referralCode=MrktTech)
 ### Deploy in your vps
 ```sh
 git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
